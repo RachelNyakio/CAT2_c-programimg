@@ -1,0 +1,1 @@
+data_type array_name[rows][columns]
